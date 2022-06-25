@@ -1,6 +1,6 @@
-# submission1_dicoding
+# Aplikasi Kita Sehat
 
-Aplikasi Kita Sehat
+![KitaSehat - Dicoding](https://user-images.githubusercontent.com/32919685/175784794-97552239-06ad-41da-8512-eb3fdccc1141.png)
 
 ## Getting Started
 
